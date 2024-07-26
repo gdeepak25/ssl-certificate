@@ -1,8 +1,8 @@
 apiVersion: networking.gke.io/v1
 kind: ManagedCertificate
 metadata:
-  name: managed-cert
+  name: managed-certt
 spec:
   domains:
-    - nginx.swambugu.website
-    - flask.swambugu.website
+    - www.studiesaws.xyz
+    - studiesaws.xyz
